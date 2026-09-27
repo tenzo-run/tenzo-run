@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=E8967A&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sanzhar+%F0%9F%91%8B;Senior+Frontend+%2F+Product+Engineer;React+%C2%B7+Next.js+%C2%B7+Go+%C2%B7+Organic+growth;I+ship+products+from+UI+to+launch" alt="Typing SVG" />
+<h1>Hi, I'm Sanzhar 👋</h1>
+<h3>Senior Frontend / Product Engineer · React · Next.js · Go · Organic growth</h3>
+<p><i>I ship products from interface to launch — and then bring the traffic.</i></p>
 
 <p>
   <a href="https://t.me/tenzo_dev"><img src="https://img.shields.io/badge/Telegram-@tenzo__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -131,7 +133,7 @@ Multilingual XML sitemaps with reciprocal **hreflang**, `x-default` and auto-spl
 ### 📈 GitHub activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tenzo-run&theme=tokyonight&hide_border=true&background=0D1117&ring=E8967A&fire=E8967A&currStreakLabel=E8967A" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=tenzo-run&theme=tokyonight&hide_border=true&background=0D1117&ring=E8967A&fire=E8967A&currStreakLabel=E8967A&disable_animations=true" alt="streak" />
 </div>
 
 
