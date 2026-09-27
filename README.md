@@ -134,9 +134,6 @@ Multilingual XML sitemaps with reciprocal **hreflang**, `x-default` and auto-spl
   <img src="https://streak-stats.demolab.com?user=tenzo-run&theme=tokyonight&hide_border=true&background=0D1117&ring=E8967A&fire=E8967A&currStreakLabel=E8967A" alt="streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tenzo-run&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8967A&line=E8967A&point=FFFFFF&area=true" alt="activity graph" width="100%" />
-</div>
 
 ---
 
