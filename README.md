@@ -7,6 +7,7 @@
 <p>
   <a href="https://t.me/tenzo_dev"><img src="https://img.shields.io/badge/Telegram-@tenzo__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:tenzo.run@gmail.com"><img src="https://img.shields.io/badge/Email-tenzo.run@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://most.asia"><img src="https://img.shields.io/badge/Most_Asia-most.asia-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://pickshade.com"><img src="https://img.shields.io/badge/PickShade-pickshade.com-E8967A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
